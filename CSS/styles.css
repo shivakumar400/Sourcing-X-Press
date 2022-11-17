@@ -1,0 +1,59 @@
+body {
+
+  background-color: #FD841F;
+  color: white;
+  font-family: monospace;
+
+}
+
+a {
+
+  color: white;
+}
+
+b {
+
+  font-style: italic;
+}
+
+
+section {
+
+  text-align: center;
+}
+h3 {
+
+  color: white;
+}
+
+hr {
+  width: 5%;
+  border-style: none;
+  border-top: dotted;
+  border-width: 5px
+
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #3E6D9C;
+   color: white;
+   text-align: center;
+
+
+}
+
+header {
+
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+
+  color: white;
+  text-align: center;
+
+}
