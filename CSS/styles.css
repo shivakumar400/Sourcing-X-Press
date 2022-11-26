@@ -73,18 +73,13 @@ color: #153462;
 
 }
 
-#grad1 {
-
-  background-image: linear-gradient(to bottom right, red, yellow);
-}
-
 
 body {
-
 
   color: white;
   font-family: monospace;
   margin: 0;
+  background: linear-gradient(to bottom left, #26d0ce, #1a2980);
 
 }
 
