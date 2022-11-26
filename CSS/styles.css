@@ -41,8 +41,8 @@
 
 
 .toc-body {
-background-color: white;
-color: #153462;
+background-image: linear-gradient(to bottom left, #ec2f4b, #c471ed, #009fff);
+color: white;
 
 }
 
@@ -54,12 +54,12 @@ color: #153462;
 }
 .toc-h3 {
 
-  color: #FD841F;
+  color: white;
 }
 
 .toc-h2 {
 
-    color: #FD841F;
+    color: white;
     font-style: italic;
 }
 .toc-hr {
@@ -69,20 +69,22 @@ color: #153462;
 
 .toc-hr-bottom {
 
-  color: #FD841F;
+  color: white;
 
 }
 
 
 body {
 
+
   color: white;
   font-family: monospace;
   margin: 0;
-  background: linear-gradient(to bottom left, #26d0ce, #1a2980);
-  background-image: linear-gradient(to bottom right, red, yellow);
+
+
 
 }
+
 
 .ina {
   color: white;
@@ -96,7 +98,9 @@ b {
 
 div {
 
-  background-color: #3E6D9C;
+  background-image: linear-gradient(to top right, #ec2f4b, #c471ed, #009fff);
+  padding-bottom: 10px;
+  color: white;
 
 }
 
@@ -105,6 +109,8 @@ div {
 section {
 
   text-align: center;
+
+
 }
 
 h1 {
@@ -130,7 +136,7 @@ hr {
    left: 0;
    bottom: 0;
    width: 100%;
-   background-color: #3E6D9C;
+
    color: white;
    text-align: center;
 
@@ -148,12 +154,28 @@ header {
   color: white;
   text-align: center;
 
+  background-image: linear-gradient( #009fff, #6e48aa, #9d50bb);
+
 }
 
 .thumb {
 
     background-color: red;
 
+
+}
+
+.tpa {
+
+text-decoration: none;
+color: white;
+
+}
+
+.toca {
+
+  text-decoration: none;
+  color: white;
 
 }
 
