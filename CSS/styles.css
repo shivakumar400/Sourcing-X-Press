@@ -132,6 +132,7 @@ hr {
    background-color: #3E6D9C;
    color: white;
    text-align: center;
+   padding-top: 30px
 
 
 }
@@ -142,7 +143,7 @@ header {
   left: 0;
   top: 0;
   width: 100%;
-  padding-bottom: 50px;
+  padding-bottom: 70px;
   color: white;
   text-align: center;
 
