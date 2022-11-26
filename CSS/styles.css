@@ -80,7 +80,6 @@ body {
   color: white;
   font-family: monospace;
   margin: 0;
-  width: 100%;
 
 }
 
@@ -97,7 +96,7 @@ b {
 div {
 
   background-color: #3E6D9C;
-  
+
 }
 
 
@@ -129,10 +128,10 @@ hr {
    position: fixed;
    left: 0;
    bottom: 0;
-   width: 100%
+   width: 100%;
+
    color: white;
    text-align: center;
-   padding-top: 30px
 
 
 }
@@ -143,7 +142,8 @@ header {
   left: 0;
   top: 0;
   width: 100%;
-  padding-bottom: 70px;
+  padding-bottom: 35px;
+
   color: white;
   text-align: center;
 
@@ -155,3 +155,5 @@ header {
 
 
 }
+
+
