@@ -76,10 +76,11 @@ color: #153462;
 
 body {
 
-  background-color: #FD841F;
+
   color: white;
   font-family: monospace;
   margin: 0;
+  width: 100%;
 
 }
 
@@ -128,8 +129,7 @@ hr {
    position: fixed;
    left: 0;
    bottom: 0;
-   width: 100%;
-   background-color: #3E6D9C;
+   width: 100%
    color: white;
    text-align: center;
    padding-top: 30px
