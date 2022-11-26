@@ -73,6 +73,11 @@ color: #153462;
 
 }
 
+#grad1 {
+
+  background-image: linear-gradient(to bottom right, red, yellow);
+}
+
 
 body {
 
@@ -128,7 +133,8 @@ hr {
    position: fixed;
    left: 0;
    bottom: 0;
- 
+   width: 100%;
+   background-color: #3E6D9C;
    color: white;
    text-align: center;
 
@@ -140,7 +146,7 @@ header {
   position: fixed;
   left: 0;
   top: 0;
- 
+  width: 100%;
   padding-bottom: 35px;
 
   color: white;
@@ -157,3 +163,7 @@ header {
 
 
 
+
+/*
+
+*/
