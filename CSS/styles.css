@@ -40,7 +40,7 @@
 }
 
 
-.toc-body {
+.tocbody {
 background-image: linear-gradient(to bottom left, #ec2f4b, #c471ed, #009fff);
 color: white;
 
@@ -48,26 +48,26 @@ color: white;
 
 
 
-.toc-h1 {
+.toch1 {
 
   color: white;
 }
-.toc-h3 {
+.toch3 {
 
   color: white;
 }
 
-.toc-h2 {
+.toch2 {
 
     color: white;
     font-style: italic;
 }
-.toc-hr {
+.tochr {
 
   color: white;
 }
 
-.toc-hr-bottom {
+.tochrbottom {
 
   color: white;
 
@@ -180,8 +180,3 @@ color: white;
 }
 
 
-
-
-/*
-
-*/
