@@ -150,29 +150,29 @@ color: white;
 
 }
 
-#tocbody {
+.tocbody {
 background-image: linear-gradient(to bottom left, #ec2f4b, #c471ed, #009fff);
 color: white;
 
 }
 
-#toch1 {
+.toch1 {
 
   color: white;
 }
 
-#toch3 {
+.toch3 {
 
   color: white;
 }
 
-#toch2 {
+.toch2 {
 
     color: white;
     font-style: italic;
 }
 
-#tochr {
+.tochr {
 
   color: white;
 }
