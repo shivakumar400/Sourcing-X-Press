@@ -104,7 +104,7 @@ hr {
    left: 0;
    bottom: 0;
    width: 100%;
-   padding-bottom: 0px;
+   padding-bottom: 0;
    color: white;
    text-align: center;
 
@@ -146,7 +146,6 @@ color: white;
   color: white;
 
 }
-
 
 .gcseheader {
 
@@ -197,9 +196,6 @@ margin: transparent;
   cursor: pointer;
 
 }
-
-
-
 
 /*
 
