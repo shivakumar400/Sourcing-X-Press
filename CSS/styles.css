@@ -145,7 +145,7 @@ color: white;
   text-decoration: none;
   color: white;
 
-}
+.gcseheader {
 
   background-image: linear-gradient(#9d50bb, #009fff, #6e48aa);
   text-decoration: none;
@@ -154,10 +154,11 @@ color: white;
   top: 0;
   width: 100%;
   padding-bottom: 100%;
+
   color: white;
   text-align: center;
-
-}
+  
+  }
 
 .gsea {
 text-decoration: none;
