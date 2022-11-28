@@ -151,6 +151,7 @@ color: white;
 
   background-image: linear-gradient(#9d50bb, #009fff, #6e48aa);
   text-decoration: none;
+  position: fixed;
 
 
 }
